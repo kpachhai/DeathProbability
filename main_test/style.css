@@ -1,0 +1,101 @@
+	#greeting{
+	font: 22px sans-serif;
+	}
+	div{
+	font: 24px sans-serif;
+	}
+	.arc path{
+	
+	stroke: #fff;
+	}
+	#title{
+	font: 26px sans-serif;
+	text-align:center;
+	text-decoration:bold;
+	font-weight:bold;
+	}
+	a{
+	font: 14px sans-serif;
+	}
+	#container{
+	//border: 1px solid black;
+	position: relative;
+	float: left;
+	width: 1030px;
+	font: 12px sans-serif;
+	}
+	#piedisplay{
+	//border: 1px solid orange;
+	font: 24px sans-serif;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	//width: 250px;
+	height: 35px;
+	font-weight: bold;	
+	vertical-align: middle;
+	}
+	#piecontainer{
+	//border:1px solid green;
+	position; relative;
+	float: left;
+	width: 505px;
+	
+	}
+	#pie{
+	//border:1px solid red;
+	position: relative;
+	float: left;
+	width: 500px;
+	font:12px sans-serif;
+	font-weight:bold;
+	}
+
+	#legend{
+	//border:1px solid red;
+	position: relative;
+	width: 515px;
+	height: 500px;
+	float: left;
+	font: 13px sans-serif;
+	}
+	.color{
+	//border: 1px solid red;
+	font: 12px sans-serif;
+	position: relative;
+	width: 50px;
+	height: 50px;
+	float: left;
+	}
+	.spacercolor{
+	//border: 1px solid black;
+	position relative;
+	width:50px;
+	height:50px;
+	float: left;
+	}
+	.key{
+	//border: 1px solid blue;
+	text-align: center;
+	position: relative;
+	width: 150px;
+	height:50px;
+	float: left;
+	font: 13px sans-serif;
+	}
+	.spacer{
+	//border: 1px solid green;
+	position: relative;
+	float: left;
+	height: 25px;
+	width: 100%;
+	}
+	#feedback{
+	//border: 1px solid black;
+	position:relative;
+	float: bottom;
+	//float: center;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	}
